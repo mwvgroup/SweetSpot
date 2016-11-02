@@ -1,3 +1,3 @@
 # SweetSpot
 
-Using template from https://startbootstrap.com/template-overviews/bare/  
+Website generated using GitHub's automatic webpage generator. 
